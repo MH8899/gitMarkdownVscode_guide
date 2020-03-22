@@ -37,8 +37,8 @@
     * Live Share
     * GitLens — Git supercharged
     * hide-gitignored
-    * C/C++(microsoft)
-    * Clang-Format
+    * Python(microsoft)
+    * Beautify
     * others
 2. 记住常用快捷键和自定义快捷键。
     - vscode Help 菜单中的快捷键参考指南
@@ -49,7 +49,7 @@
     - ctrl+shift+o
     - ctrl+t
 3. 结合 git 的高效工作流。
-    - 语言感知( C 语言为例)
+    - 语言感知( Python语言为例)
     - 自动补全
     - 代码格式化
     - 代码重构
