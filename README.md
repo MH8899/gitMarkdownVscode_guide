@@ -37,8 +37,8 @@
     * Live Share
     * GitLens — Git supercharged
     * hide-gitignored
-    * C/C++(microsoft)
-    * Clang-Format
+    * Java
+    * Beautify
     * others
 2. 记住常用快捷键和自定义快捷键。
     - vscode Help 菜单中的快捷键参考指南
